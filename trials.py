@@ -13,3 +13,7 @@ if cevap=="bilmiyorum ":
 # bu bir comment oluyormuş, bilgim olsun. Yarın, öbürgün işlem yapacağım zaman aklımda!
 # bu da ikinci bir comment oluyormuş, bilgim vardı!
 
+"""
+Detaylı yorumlar için yazacağım çoklu yorum satırını burada denemiştim.
+Bu benim için ilk değil ama son da olmayacak :)
+"""
