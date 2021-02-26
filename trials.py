@@ -8,7 +8,7 @@ if cevap=="hayir":
 if cevap=="evet":
     print("En iyisini yapacağım!")
 if cevap=="bilmiyorum ":
-    print("Çok inatçı çıktın AQ!")
+    print("Çok inatçı çıktın!")
 
 # bu bir comment oluyormuş, bilgim olsun. Yarın, öbürgün işlem yapacağım zaman aklımda!
 # bu da ikinci bir comment oluyormuş, bilgim vardı!
